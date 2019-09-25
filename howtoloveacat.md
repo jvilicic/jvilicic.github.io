@@ -21,8 +21,8 @@ Loving a cat is not always easy, but it can be a very rewarding experience for e
 
 
 ### References: ###
-1. [Cute Kittens](https://www.youtube.com/watch?v=SB-qEYVdvXA)
-1. [Wikipedia - Cat](https://en.wikipedia.org/wiki/Cat/)
+* [Cute Kittens](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+* [Wikipedia - Cat](https://en.wikipedia.org/wiki/Cat/)
 
 
 ![cute cat](https://www.sonomamag.com/wp-content/uploads/2018/05/shutterstock_352176329.jpg)
